@@ -17,13 +17,14 @@
 
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<!-- 
 ### 🎧 Spotify playing
-![Spotify](https://novatorem-git-master.anirudh-jwala.vercel.app/api/spotify)
+![Spotify](https://novatorem-git-master.anirudh-jwala.vercel.app/api/spotify) -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="Anirudh Jwala's GitHub Stats" src="https://github-readme-stats-git-master.anirudh-jwala.vercel.app/api?username=anirudh-jwala&show_icons=true&hide_border=true" />
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-jwala&" alt="anirudh-jwala" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-jwala&" alt="anirudh-jwala" /> -->
 </details>
